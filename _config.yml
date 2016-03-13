@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.09361702
-  brandStrength: 0.5336064584553242
+  brandStrength: 0.5319149
   lightness: 0.8297873
   brandColors:
-    - '#803137'
-    - '#f7fcff'
-    - '#31072d'
-    - '#ea8d24'
-    - '#e9d4a7'
+    - '#C5AD65'
+    - '#5C3A05'
+    - '#9A6E05'
+    - '#910D03'
+    - '#E0CFA3'
   rhythmicContrast: 0.5127659
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: Anna Thurber Artist
 favicon: null
-name: Annathurberartist
 opengraph:
   image: null
   type: null
