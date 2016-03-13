@@ -1,29 +1,41 @@
-name: Annathurberartist
-favicon: null
-layout_spectrum: 0.536672975635156
-typography_spectrum: 0.35671876557171345
 title: Recent Work
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.09361702
+  brandStrength: 0.5336064584553242
+  lightness: 0.8297873
   brandColors:
     - '#803137'
     - '#f7fcff'
     - '#31072d'
     - '#ea8d24'
     - '#e9d4a7'
-  brandStrength: 0.5336064584553242
-  lightness: 0.9035029599908739
-  saturation: 0.038309558061882854
-  rhythmicContrast: 0.7896504267118871
-purpose: []
+  rhythmicContrast: 0.5127659
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Annathurberartist
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3553191
+layout_spectrum: 0.5680851
