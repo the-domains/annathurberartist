@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Recent Work]]></title>
         <description><![CDATA[Recent Work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/annathurberartist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 16:25:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 19:55:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/annathurberartist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f22bc57-bd52-4a35-bc2b-a15ae1cdd67c.jpg">]]></description>
-            <link>undefined0ecda277-cb65-4d4f-a79f-fc633fe36bac/index.html</link>
+            <link>https://thegrid.ai/annathurberartist/0ecda277-cb65-4d4f-a79f-fc633fe36bac/index.html</link>
             <guid isPermaLink="false">0ecda277-cb65-4d4f-a79f-fc633fe36bac</guid>
-            <pubDate>Mon, 14 Mar 2016 16:25:14 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 19:54:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
